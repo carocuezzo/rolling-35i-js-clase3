@@ -1,0 +1,13 @@
+Matemática
+1) Ingresar por prompt el lado de un cuadrado y mostrar: 
+a)  con una alerta el área del mismo
+b)  el perímetro
+2) Ingresar la base y la altura de un triángulo y mostrá su área.
+3) Generá una variable que se llame nombreItem, otra que sea costoItem y una tercera,
+cantidadComprada. Dale valores y mostrá por alerta la leyenda 
+"Compraste (nombreItem), deberás abonar (costoItem por cantidadComprada)"
+4) Sabiendo que la función f(x)=3x^2+5x+2 viene dada por un x obtenido de un prompt,
+mostrar el valor resultante de dicha función por consola.
+5) ¿Qué es y para que sirve el módulo o resto?
+6) Generá una operación en donde el resto de como resultado 2.
+7) Investigá para la próxima clase la función Math. 
