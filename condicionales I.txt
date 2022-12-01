@@ -1,0 +1,26 @@
+Condicionales I
+1) Hacer una variable que se llame salir, puede tomar el valor true o false.
+Si es true mostrar el cartel "Hasta la próxima!"
+Sino "Aún no te vas >:D"
+2) Agregar una variable llamada colorSemaforo. Si el valor ingresado es: 
+* verde: Se mostrara con console.log la leyenda "Adelante!"
+* amarillo: Se mostrara con console.warn la leyenda "Anda deteniendote!"
+* rojo: Se mostrara con console.error la leyenda "No avences!"
+3) Se ingresará un total de lados que tiene un poliedro. En caso de ingresar:
+* 1: Se mostrará la leyenda "Es un círculo"
+* 2: Se mostrará la leyenda "Es un plano"
+* 3: Se mostrará la leyenda "Es un triángulo"
+* 4: Se mostrará la leyenda "Es un rectángulo"
+4) Modificá el punto anterior de manera tal que SOLO al seleccionar el valor 4 te pregunte por prompt
+si ambos lados son iguales mostrarás la leyenda "Es un cuadrado", 
+en caso negativo "es un rectángulo"
+5) Ingresa por prompt el nombre, el color y el valor de un auto.
+Si el auto es color verde mostrá la leyenda "El auto {nombre de auto} es verde"
+Si el auto es color azul mostrá la leyenda "El auto {nombre de auto} no está disponible en ese color"
+Si el auto es color rojo mostrá la leyenda "El auto {nombre de auto} tiene un valor {valor * 1.5}"
+6) Tenemos un cajero automático. El saldo del usuario es $5000. Por prompt vas a elegir una de las siguientes opciones:
+0: Se muestra la leyenda "Salis del sistema"
+1: Pedis por prompt un valor y le sumas al saldo. Luego mostras el saldo final (saldo + importe adicional)
+2: Pedis por prompt un valor y le restas al saldo. Luego mostras el saldo final (saldo - importe adicional)
+** Para el caso "2" valida que no se ingrese un valor superior al que existe en el saldo. En caso de ser 
+superior que NO realice la resta y se muestre la leyenda "No tenes dinero suficiente"

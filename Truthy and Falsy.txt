@@ -1,0 +1,14 @@
+Truthy and Falsy
+1) ¿Cuáles son los valores posibles que toma "falsy"?
+2) ¿Cuál es la diferencia entre == y === ? Dame un ejemplo de cada uno.
+2) ¿Cuál es la diferencia entre un valor undefinned y un error por valor no definido?
+3) Marca con una Y si está en lo cierto o X si el concepto esta equivocado (y en este caso explica porqué):
+[] "a" => resultado: false
+[] false => resultado: false
+[] "true" => resultado: true
+[] true => resultado: true
+[] 1 => resultado: true
+[] 0 => resultado: false
+[] false || true => resultado: true
+[] false && true => resultado: true
+[] 9 && false => resultado: 9

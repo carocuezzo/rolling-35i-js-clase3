@@ -1,0 +1,14 @@
+Condicionales II
+1) Un taxi cobra 3 dolares el km de viaje. Si el viaje excede los 5 kms entonces el valor por km es 2.75.
+Sabiendo que la bajada está 1.5 dolares y que el usuario ingresará por prompt la cantidad de kms a recorrer:
+calculá el precio total del viaje y mostralo por consola.
+2) Crea una variable llamada usuario y, otra, contrasenia (recorda que no se puede agregar una ñ dentro del nombre de las variables).
+Si el usuario es "root" y la contraseña es "123456" Con console.log se mostrará "Usuario logueado"
+Sino se mostrara con console.error "Acceso denegado"
+3) Modificá el punto 2 para que valide lo siguiente: 
+* Si el usuario no coincide mostrá la leyenda "El usuario es inexistente"
+* Si la contraseña no coincide mostrá la leyenda "La contraseña no es válida" 
+4) Ingresarás 2 números: si ambos son iguales mostra la leyenda "Los dos son iguales";
+si el primero es mas grande que el segundo mostra la leyenda "El primero es mayor al segundo";
+y si el segundo es mas grande que el primero mostra la leyenda "El segundo es el mas chico"
+
